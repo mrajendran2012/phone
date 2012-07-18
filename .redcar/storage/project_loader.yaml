@@ -1,0 +1,7 @@
+--- 
+open_files: 
+  - app/assets/stylesheets/sample.css
+  - app/assets/stylesheets/application.css
+  - app/assets/stylesheets/phone1s.css.scss
+  - app/assets/stylesheets/scaffolds.css.scss
+  - vendor/assets/stylesheets/style.css.scss

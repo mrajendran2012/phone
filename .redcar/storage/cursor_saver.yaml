@@ -1,0 +1,66 @@
+--- 
+cursor_positions: 
+  - :path: script/rails
+    :cursor_offset: 296
+    :timestamp: 2012-07-14 09:23:46 -04:00
+  - :path: config/environments/development.rb
+    :cursor_offset: 0
+    :timestamp: 2012-07-14 09:23:45 -04:00
+  - :path: app/models/phone1.rb
+    :cursor_offset: 0
+    :timestamp: 2012-07-14 09:27:34 -04:00
+  - :path: app/controllers/application_controller.rb
+    :cursor_offset: 0
+    :timestamp: 2012-07-14 10:51:14 -04:00
+  - :path: app/controllers/phone1s_controller.rb
+    :cursor_offset: 1500
+    :timestamp: 2012-07-14 10:47:15 -04:00
+  - :path: app/helpers/application_helper.rb
+    :cursor_offset: 0
+    :timestamp: 2012-07-14 09:23:45 -04:00
+  - :path: app/helpers/phone1s_helper.rb
+    :cursor_offset: 0
+    :timestamp: 2012-07-14 09:27:34 -04:00
+  - :path: app/assets/images/rails.png
+    :cursor_offset: 0
+    :timestamp: 2012-07-14 09:23:45 -04:00
+  - :path: lib/assets/stylesheets/sample.css
+    :cursor_offset: 106
+    :timestamp: 2012-07-14 11:22:24 -04:00
+  - :path: config/initializers/session_store.rb
+    :cursor_offset: 0
+    :timestamp: 2012-07-14 09:23:45 -04:00
+  - :path: app/views/phone1s/show.html.erb
+    :cursor_offset: 166
+    :timestamp: 2012-07-14 10:44:12 -04:00
+  - :path: app/views/phone1s/new.html.erb
+    :cursor_offset: 20
+    :timestamp: 2012-07-14 10:51:26 -04:00
+  - :path: app/views/phone1s/index.html.erb
+    :cursor_offset: 542
+    :timestamp: 2012-07-14 10:50:10 -04:00
+  - :path: app/views/phone1s/edit.html.erb
+    :cursor_offset: 24
+    :timestamp: 2012-07-14 10:45:29 -04:00
+  - :path: app/views/phone1s/_form.html.erb
+    :cursor_offset: 0
+    :timestamp: 2012-07-14 09:27:34 -04:00
+  - :path: app/views/layouts/application.html.erb
+    :cursor_offset: 0
+    :timestamp: 2012-07-14 16:52:50 -04:00
+  - :path: app/assets/stylesheets/sample.css
+    :cursor_offset: 0
+    :timestamp: 2012-07-14 17:35:38 -04:00
+  - :path: app/assets/stylesheets/application.css
+    :cursor_offset: 546
+    :timestamp: 2012-07-14 22:44:12 -04:00
+  - :path: app/assets/stylesheets/phone1s.css.scss
+    :cursor_offset: 227
+    :timestamp: 2012-07-14 23:47:12 -04:00
+  - :path: app/assets/stylesheets/scaffolds.css.scss
+    :cursor_offset: 31
+    :timestamp: 2012-07-14 17:09:05 -04:00
+  - :path: vendor/assets/stylesheets/style.css.scss
+    :cursor_offset: 0
+    :timestamp: 2012-07-14 22:26:28 -04:00
+files_to_retain: 0
